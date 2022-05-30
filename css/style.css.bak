@@ -1,0 +1,9 @@
+/*importing google fonts*/
+@import url("https://fonts.googleapis.com/css?family=Lora|Roboto");
+
+
+/*Importing all components file*/
+
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
